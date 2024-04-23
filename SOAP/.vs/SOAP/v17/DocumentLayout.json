@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|c:\\users\\ravi.b_int1585\\source\\repos\\soap\\soap\\model\\calservicecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|solutionrelative:soap\\model\\calservicecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|c:\\users\\ravi.b_int1585\\source\\repos\\soap\\soap\\controllers\\calcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|solutionrelative:soap\\controllers\\calcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|c:\\users\\ravi.b_int1585\\source\\repos\\soap\\soap\\service\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|solutionrelative:soap\\service\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|c:\\users\\ravi.b_int1585\\source\\repos\\soap\\soap\\model\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|solutionrelative:soap\\model\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|c:\\users\\ravi.b_int1585\\source\\repos\\soap\\soap\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|solutionrelative:soap\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|c:\\users\\ravi.b_int1585\\source\\repos\\soap\\soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716B682E-B338-4DA9-84B4-0C4BED91094A}|SOAP\\SOAP.csproj|solutionrelative:soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Controllers\\CalController.cs",
+              "RelativeDocumentMoniker": "SOAP\\Controllers\\CalController.cs",
+              "ToolTip": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Controllers\\CalController.cs",
+              "RelativeToolTip": "SOAP\\Controllers\\CalController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:07:07.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SOAP\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SOAP\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:06:46.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Program.cs",
+              "RelativeDocumentMoniker": "SOAP\\Program.cs",
+              "ToolTip": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Program.cs",
+              "RelativeToolTip": "SOAP\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:00:35.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Service\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "SOAP\\Service\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Service\\CalculatorService.cs",
+              "RelativeToolTip": "SOAP\\Service\\CalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:58:39.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalServiceContract.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Model\\CalServiceContract.cs",
+              "RelativeDocumentMoniker": "SOAP\\Model\\CalServiceContract.cs",
+              "ToolTip": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Model\\CalServiceContract.cs",
+              "RelativeToolTip": "SOAP\\Model\\CalServiceContract.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:56:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Model\\Calculator.cs",
+              "RelativeDocumentMoniker": "SOAP\\Model\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\SOAP\\SOAP\\Model\\Calculator.cs",
+              "RelativeToolTip": "SOAP\\Model\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:54:23.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

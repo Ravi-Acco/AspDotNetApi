@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\AspDotNetCoreWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C434C1F6-BFC7-4399-8BB0-A7BA8811A064}|AspDotNetCoreWebApi\\AspDotNetCoreWebApi.csproj|c:\\users\\ravi.b_int1585\\source\\repos\\aspdotnetcorewebapi\\aspdotnetcorewebapi\\controllers\\footballclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C434C1F6-BFC7-4399-8BB0-A7BA8811A064}|AspDotNetCoreWebApi\\AspDotNetCoreWebApi.csproj|solutionrelative:aspdotnetcorewebapi\\controllers\\footballclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C434C1F6-BFC7-4399-8BB0-A7BA8811A064}|AspDotNetCoreWebApi\\AspDotNetCoreWebApi.csproj|c:\\users\\ravi.b_int1585\\source\\repos\\aspdotnetcorewebapi\\aspdotnetcorewebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C434C1F6-BFC7-4399-8BB0-A7BA8811A064}|AspDotNetCoreWebApi\\AspDotNetCoreWebApi.csproj|solutionrelative:aspdotnetcorewebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C434C1F6-BFC7-4399-8BB0-A7BA8811A064}|AspDotNetCoreWebApi\\AspDotNetCoreWebApi.csproj|c:\\users\\ravi.b_int1585\\source\\repos\\aspdotnetcorewebapi\\aspdotnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C434C1F6-BFC7-4399-8BB0-A7BA8811A064}|AspDotNetCoreWebApi\\AspDotNetCoreWebApi.csproj|solutionrelative:aspdotnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FootballClubController.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\AspDotNetCoreWebApi\\AspDotNetCoreWebApi\\Controllers\\FootballClubController.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreWebApi\\Controllers\\FootballClubController.cs",
+              "ToolTip": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\AspDotNetCoreWebApi\\AspDotNetCoreWebApi\\Controllers\\FootballClubController.cs",
+              "RelativeToolTip": "AspDotNetCoreWebApi\\Controllers\\FootballClubController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:19:51.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\AspDotNetCoreWebApi\\AspDotNetCoreWebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreWebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\AspDotNetCoreWebApi\\AspDotNetCoreWebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "AspDotNetCoreWebApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:20:34.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\AspDotNetCoreWebApi\\AspDotNetCoreWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Ravi.B_INT1585\\source\\repos\\AspDotNetCoreWebApi\\AspDotNetCoreWebApi\\Program.cs",
+              "RelativeToolTip": "AspDotNetCoreWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:20:27.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
